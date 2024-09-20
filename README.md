@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **dilushamadushan007@gmail.com**
 
-- ⚡ Fun fact **Call me as Dilu**
-
 ### GitHub Analytics
 
 <p align="center">
