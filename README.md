@@ -11,13 +11,13 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### ⚙️ &nbsp;About Me
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **dilushamadushan007@gmail.com**
-  
-- 💬 Ask me about **--**
-
-- ⚡ Fun fact **--**
+- 🎓 Undergraduate at the **University of Ruhuna** – Faculty of Technology
+- 💻 I’m currently learning **Java**, **MySQL**, and exploring **JavaFX**
+- 🚀 Passionate about **Web Development**, **Java Projects**
+- 📫 Reach me at: **dilushamadushan007@gmail.com**
+- 🌱 Always eager to explore new technologies and contribute to open-source
+- 💡 I talk to my code like it’s a teammate — sometimes it listens, sometimes it crashes… but we always make up in the end 😅💻
+      Also, my best ideas usually arrive when I’m **not** in front of the computer — like in the shower or mid-snack 🧠🚿🍫
 <br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -45,8 +45,21 @@
 
 
 ### ⚙️ &nbsp;Connect with me:
-<p align="left">
-<a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilusha madushan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://discord.gg/dilusha0384" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="40" width="40" /></a>
+<p align="center">
+  <a href="mailto:dilushamadushan007@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/dilushamadushan007" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/Dilusha Madushan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/dilusha-madushan-142a13297" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/dilusha0384" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="40" width="40" />
+  </a>
 </p>
+
