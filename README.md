@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilusha Madushan</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilushamadushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilushamadushan" /> </p>
-<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ```yaml
 name        : "Dilusha Madushan"
