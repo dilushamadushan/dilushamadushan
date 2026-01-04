@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dilushamadushan&color=blue)
 [![WakaTime](https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg)](https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4)
 
-<img align="right" width=250px height=450px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=230px height=450px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ```yaml
 name: Dilusha Madushan
