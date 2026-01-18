@@ -10,7 +10,6 @@ name: Dilusha Madushan
 typing_lines: 🎓 Undergraduate | 🚀 Always Learning
 university: "University of Ruhuna – Faculty of Technology"
 learning: ["Spring Boot (Advanced)", "REST API Design & Security", "Linux"]
-interests: ["Full-Stack Web Development", "Software Developer"]
 contact:
   email: dilushamadushan007@gmail.com
   instagram: https://www.instagram.com/dilushamadushan007
