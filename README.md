@@ -9,7 +9,7 @@
 name: Dilusha Madushan
 typing_lines: 🎓 Undergraduate | 🚀 Always Learning
 university: "University of Ruhuna – Faculty of Technology"
-learning: ["Spring Boot (Advanced)", "REST API Design & Security", "Linux"]
+learning: ["Spring Boot (Advanced)", "Flutter", "Devops"]
 contact:
   email: dilushamadushan007@gmail.com
   instagram: https://www.instagram.com/dilushamadushan007
@@ -19,9 +19,9 @@ contact:
 fun_fact: "My best ideas come when I'm not coding 😄"
 quote: "I talk to my code like it’s a teammate — sometimes it listens, sometimes it crashes."
 technical_background:
-  - Language: "Java", "JavaScript", "PHP", "Python", "C"
-  - Frontend: "React", "HTML5", "Tailwind", "Bootstrap", "CSS"
-  - Backend: "Spring boot", "Nodejs", "Expressjs", "JavaFx"
+  "Java", "JavaScript", "PHP", "Python", "C", "TypeScript"
+  "React", "HTML5", "Tailwind", "Bootstrap", "CSS",
+  "Spring boot", "Nodejs", "Expressjs", "JavaFx"
 ```
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
